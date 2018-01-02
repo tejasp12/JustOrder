@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Just Order</string>
+    <string name="quantity">Coffee quantity</string>
+    <string name="zero">0</string>
+    <string name="order">view order summary</string>
+    <string name="price">ORDER SUMMARY</string>
+    <string name="rs_0">Rs.0</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+    <string name="thank_you">\n Thank You</string>
+    <string name="total_no_coffees">Total no of coffees:</string>
+    <string name="enter_ur_name">Enter your name</string>
+    <string name="phone_no">Enter your phone no</string>
+    <string name="just_order_what_s_your_order">Just Order</string>
+    <string name="what_s_your_order">What\'s your Order..!</string>
+    <string name="toppings">toppings</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="add_Chocolate">Add Chocolate:</string>
+    <string name="add_whipped_cream">Add Whipped cream:</string>
+    <string name="total">Total:Rs.</string>
+    <string name="thank_u">Thank You.!</string>
+    <string name="name">Name:</string>
+    <string name="num_of_quantity">Quantity:</string>
+    <string name="send_order">Send Order</string>
+    <string name="mobile_num">Mobile no:</string>
+    <string name="send_button">send_button</string>
+</resources>
